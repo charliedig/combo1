@@ -40,8 +40,9 @@ class Navbar extends Component {
 
 const navbarbrandstyle = {
   position: 'absolute',
-  left: '48%',
-  marginRight: '0px'
+  left: '47%',
+  marginRight: '0px',
+  marginLeft: '8px'
 }
 
 
